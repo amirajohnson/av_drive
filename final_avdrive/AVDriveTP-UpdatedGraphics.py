@@ -4,10 +4,10 @@ from pprint import pprint
 import random
 '''
 Citations:
-1. Parked Truck Images - Drawing by Paige Johnson (sister)
+1. Parked Truck Images - Drawing by Paige Johnson
 2. Pedestrian - Amira Johnson
 3. Bike - Amira Johnson
-5. Traffic Light Images - Drawing by Paige Johnson (sister)
+5. Traffic Light Images - Drawing by Paige Johnson
 6. Logos, home images, instructions, etc -- by Amira Johnson
 7. Backdrop - Amira
 8. Parking Lot - https://ozinga.com/wp-content/uploads/2020/09/22_CommonConcreteProblems-1024x500.jpg
