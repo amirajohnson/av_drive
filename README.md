@@ -1,14 +1,14 @@
-# av_drive
+# AV Drive
 This project was written in the Spring 2022 as a term project submission for the 15-112 course.
 
 Welcome to AV Drive!
 
 This project is the first major (solo) python project that I wrote as a freshman in college.
 
-AV Drive is a self-driving car simulator that uses Breadth-First and Depth-First 
-Search algorithms to navigate a busy parking lot! Users can place pedestrians
+AV Drive is a self-driving car simulator that uses modified Breadth-First and Depth-First 
+Search algorithms to navigate a busy parking lot! Users can place pedestrians, trucks
 and bicycles into the parking lot, and when the space key is pressed, the AV 
-must develop a path to navigate the parking lot. 
+determines a path to navigate the parking lot. 
 
 -- libraries
 cmu_cs3_graphics is needed to run AV drive.
