@@ -47,7 +47,7 @@ def constructGraph(app, board, startRow, startCol):
 
     return nodesDict
 
-#DO NOT TOUCH THIS FUNCTION AMIRA!!!!
+
 #breadth first search function, adapted from https://www.educative.io/edpresso/how-to-implement-a-breadth-first-search-in-python
 def bfsHelper(app, visited, queue, dead, connections, graph, node):
     if queue == [] or app.goal in graph[node]:
@@ -103,7 +103,7 @@ def reconstructSolution(parent, connections):
         newConnections[value] = connections[value]
     return newConnections
 
-#account for when thingies have no path
+#account for when AVs have no path
 def doBreadthFirstSearch(app, node):
     app.visited = [node]
     app.queue = [node]
